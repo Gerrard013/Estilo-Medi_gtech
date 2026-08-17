@@ -1,0 +1,635 @@
+[
+  {
+    "id": "elegance-patricia",
+    "colecao": "Elegance",
+    "categoria": "Scrub",
+    "nome": "Patricia",
+    "preco": 274.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Gola em V com zíper",
+      "Calça com elástico na perna",
+      "Elástico na cintura"
+    ],
+    "diferenciais": [
+      "Caimento alinhado",
+      "Praticidade",
+      "Durabilidade"
+    ],
+    "pagina": 2
+  },
+  {
+    "id": "elegance-jani",
+    "colecao": "Elegance",
+    "categoria": "Jaqueta",
+    "nome": "Jani",
+    "preco": 186.0,
+    "preco_plus": null,
+    "tamanhos": "PP ao GG",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Bolso faca",
+      "Gola polo",
+      "Fechamento em zíper"
+    ],
+    "diferenciais": [
+      "Caimento alinhado",
+      "Praticidade",
+      "Durabilidade"
+    ],
+    "pagina": 3
+  },
+  {
+    "id": "elegance-vania",
+    "colecao": "Elegance",
+    "categoria": "Scrub",
+    "nome": "Vânia",
+    "preco": 228.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "97% Poliéster, 3% Elastano",
+    "caracteristicas": [
+      "Gola redonda",
+      "Bolsos frontais e amarração na cintura",
+      "Bolso no busto"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Leveza",
+      "Praticidade"
+    ],
+    "pagina": 4
+  },
+  {
+    "id": "elegance-maria",
+    "colecao": "Elegance",
+    "categoria": "Scrub",
+    "nome": "Maria",
+    "preco": 230.0,
+    "preco_plus": 250.0,
+    "tamanhos": "PP ao 3G",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Gola com recorte em V",
+      "Detalhes de pregas",
+      "Botão nas costas da blusa"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Caimento alinhado",
+      "Praticidade"
+    ],
+    "pagina": 5
+  },
+  {
+    "id": "elegance-lorena",
+    "colecao": "Elegance",
+    "categoria": "Macacão",
+    "nome": "Lorena",
+    "preco": 284.0,
+    "preco_plus": 304.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Gola polo com zíper",
+      "Zíper até abaixo da cintura com amarração",
+      "Elástico na perna"
+    ],
+    "diferenciais": [
+      "Caimento alinhado",
+      "Durabilidade",
+      "Praticidade"
+    ],
+    "pagina": 6
+  },
+  {
+    "id": "elegance-deise",
+    "colecao": "Elegance",
+    "categoria": "Scrub",
+    "nome": "Deise",
+    "preco": 262.0,
+    "preco_plus": 282.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Manga tulipa",
+      "Botões dourados na frente",
+      "Bolso na frente"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Caimento alinhado",
+      "Praticidade"
+    ],
+    "pagina": 7
+  },
+  {
+    "id": "elegance-nayara",
+    "colecao": "Elegance",
+    "categoria": "Macacão",
+    "nome": "Nayara",
+    "preco": 240.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "92% Poliéster, 8% Elastano",
+    "caracteristicas": [
+      "Zíper frontal",
+      "Amarração ajustável na cintura",
+      "Elástico na barra"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Leveza",
+      "Praticidade"
+    ],
+    "pagina": 8
+  },
+  {
+    "id": "elegance-amanda",
+    "colecao": "Elegance",
+    "categoria": "Scrub",
+    "nome": "Amanda",
+    "preco": 262.0,
+    "preco_plus": 282.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Blusa com gola padre e fechamento com zíper",
+      "Bolsos laterais",
+      "Manga bufante"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Leveza",
+      "Praticidade"
+    ],
+    "pagina": 9
+  },
+  {
+    "id": "elegance-socorro",
+    "colecao": "Elegance",
+    "categoria": "Scrub",
+    "nome": "Socorro",
+    "preco": 262.0,
+    "preco_plus": 282.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Blusa com gola redonda e botões frontais",
+      "Calça com cintura em elástico",
+      "Calça reta"
+    ],
+    "diferenciais": [],
+    "pagina": 10
+  },
+  {
+    "id": "essential-beatriz",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Beatriz",
+    "preco": 268.0,
+    "preco_plus": null,
+    "tamanhos": "PP ao GG",
+    "tecido": "88% Poliamida, 12% Elastano",
+    "caracteristicas": [
+      "Gola em V e porta crachá",
+      "Porta esteto na cintura",
+      "Bolso traseiro"
+    ],
+    "diferenciais": [
+      "Repelência à água",
+      "Proteção UV 50+",
+      "Fibra inteligente",
+      "Tecido tecnológico"
+    ],
+    "pagina": 2
+  },
+  {
+    "id": "essential-ingrid",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Ingrid",
+    "preco": 334.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "50,3% Viscose, 37,7% Poliamida, 12% Elastano",
+    "caracteristicas": [
+      "Gola padre",
+      "Detalhe de amarração na cintura",
+      "Calça flaire"
+    ],
+    "diferenciais": [
+      "Conforto",
+      "Praticidade",
+      "Respirabilidade"
+    ],
+    "pagina": 3
+  },
+  {
+    "id": "essential-sheryda",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Sheryda",
+    "preco": 340.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "85% Poliamida, 15% Elastano",
+    "caracteristicas": [
+      "Gola em V",
+      "Calça flaire",
+      "Bolsos frontais grandes"
+    ],
+    "diferenciais": [
+      "Malha tecnológica",
+      "Tecnologia Dry Fit",
+      "Anti-odor",
+      "Elasticidade"
+    ],
+    "pagina": 4
+  },
+  {
+    "id": "essential-val",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Val",
+    "preco": 186.0,
+    "preco_plus": null,
+    "tamanhos": "PP ao GG",
+    "tecido": "92% Poliéster, 8% Elastano",
+    "caracteristicas": [
+      "Gola com recorte",
+      "Bolsos frontais na blusa e calça",
+      "Amarração nas costas"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Leveza",
+      "Praticidade"
+    ],
+    "pagina": 5
+  },
+  {
+    "id": "essential-yara",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Yara",
+    "preco": 278.0,
+    "preco_plus": null,
+    "tamanhos": "PP ao GG",
+    "tecido": "88% Poliamida, 12% Elastano",
+    "caracteristicas": [
+      "Gola padre com fechamento em zíper",
+      "Elástico na barra da blusa",
+      "Calça flaire"
+    ],
+    "diferenciais": [
+      "Tecido tecnológico",
+      "Repelência à água",
+      "Proteção UV 50+",
+      "Fibra inteligente"
+    ],
+    "pagina": 6
+  },
+  {
+    "id": "essential-layra",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Layra",
+    "preco": 286.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "97% Poliéster, 3% Elastano",
+    "caracteristicas": [
+      "Gola padre com bolso frontal",
+      "Bolso nas costas",
+      "Elástico na cintura e amarração frontal"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Praticidade",
+      "Caimento estruturado"
+    ],
+    "pagina": 7
+  },
+  {
+    "id": "essential-viviane",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Viviane",
+    "preco": 286.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "97% Poliéster, 3% Elastano",
+    "caracteristicas": [
+      "Gola polo",
+      "Bolsos laterais",
+      "Bolso nas costas"
+    ],
+    "diferenciais": [
+      "Caimento estruturado",
+      "Durabilidade",
+      "Praticidade"
+    ],
+    "pagina": 8
+  },
+  {
+    "id": "essential-anastacia",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Anastácia",
+    "preco": 340.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "85% Poliamida, 15% Elastano",
+    "caracteristicas": [
+      "Elástico na cintura da calça",
+      "Calça flaire",
+      "Gola polo e bolso frontal"
+    ],
+    "diferenciais": [
+      "Malha tecnológica",
+      "Tecnologia Dry Fit",
+      "Anti-odor",
+      "Elasticidade"
+    ],
+    "pagina": 9
+  },
+  {
+    "id": "essential-stefanny",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Stefanny",
+    "preco": 340.0,
+    "preco_plus": null,
+    "tamanhos": "PP ao GG",
+    "tecido": "85% Poliamida, 15% Elastano",
+    "caracteristicas": [
+      "Bolso frontal",
+      "Bolsos laterais",
+      "Bolso no busto"
+    ],
+    "diferenciais": [
+      "Malha tecnológica",
+      "Tecnologia Dry Fit",
+      "Anti-odor",
+      "Elasticidade"
+    ],
+    "pagina": 10
+  },
+  {
+    "id": "essential-agata",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Ágata",
+    "preco": 340.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "85% Poliamida, 15% Elastano",
+    "caracteristicas": [
+      "Gola em V",
+      "Amarrações laterais",
+      "Elástico na perna da calça"
+    ],
+    "diferenciais": [
+      "Malha tecnológica",
+      "Tecnologia Dry Fit",
+      "Anti-odor",
+      "Elasticidade"
+    ],
+    "pagina": 11
+  },
+  {
+    "id": "essential-julia",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Júlia",
+    "preco": 170.0,
+    "preco_plus": 190.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "100% Poliéster",
+    "caracteristicas": [
+      "Gola traspassada e manga tulipa",
+      "Bolsos frontais na blusa e calça",
+      "Amarração nas costas"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Praticidade",
+      "Leveza"
+    ],
+    "pagina": 12
+  },
+  {
+    "id": "essential-julia-premium",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Júlia Premium",
+    "preco": 198.0,
+    "preco_plus": 218.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "92% Poliéster, 8% Elastano",
+    "caracteristicas": [
+      "Gola traspassada e manga tulipa",
+      "Bolsos frontais na blusa e calça",
+      "Amarração nas costas"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Praticidade",
+      "Antipelos"
+    ],
+    "pagina": 13
+  },
+  {
+    "id": "essential-fabiana",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Fabiana",
+    "preco": 206.0,
+    "preco_plus": 226.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "97% Poliéster, 3% Elastano",
+    "caracteristicas": [
+      "Bolsos frontais e porta crachá",
+      "Elástico na cintura para o seu conforto",
+      "Calça com elástico na perna"
+    ],
+    "diferenciais": [
+      "Leveza",
+      "Bom caimento",
+      "Confortável"
+    ],
+    "pagina": 14
+  },
+  {
+    "id": "essential-juliana",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Juliana",
+    "preco": 148.0,
+    "preco_plus": 168.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "100% Poliéster",
+    "caracteristicas": [
+      "Gola em V",
+      "Bolsos frontais na blusa",
+      "Bolso traseiro"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Praticidade",
+      "Leveza"
+    ],
+    "pagina": 15
+  },
+  {
+    "id": "essential-jamile",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Jamile",
+    "preco": 208.0,
+    "preco_plus": 228.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "100% Poliéster",
+    "caracteristicas": [
+      "Blusa gola V traspassada",
+      "Calça com elástico na cintura",
+      "Dois bolsos grandes"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Praticidade",
+      "Leveza"
+    ],
+    "pagina": 16
+  },
+  {
+    "id": "essential-clara",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Clara",
+    "preco": 198.0,
+    "preco_plus": 218.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "92% Poliéster, 8% Elastano",
+    "caracteristicas": [
+      "Blusa com gola V e dois bolsos frontais",
+      "Elástico nas costas",
+      "Calça com pala e elástico na cintura"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Praticidade",
+      "Antipelos"
+    ],
+    "pagina": 17
+  },
+  {
+    "id": "essential-eloa",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Eloá",
+    "preco": 230.0,
+    "preco_plus": 250.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Gola traspassada e manga tulipa",
+      "Bolsos frontais na blusa e calça",
+      "Calça reta com bolsos laterais"
+    ],
+    "diferenciais": [
+      "Bom caimento",
+      "Conforto prolongado",
+      "Durabilidade"
+    ],
+    "pagina": 18
+  },
+  {
+    "id": "essential-anny",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Anny",
+    "preco": 318.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "85% Poliamida, 15% Elastano",
+    "caracteristicas": [
+      "Blusa com gola V",
+      "Dois bolsos frontais",
+      "Calça com elástico na cintura"
+    ],
+    "diferenciais": [
+      "Malha tecnológica",
+      "Tecnologia Dry Fit",
+      "Anti-odor",
+      "Elasticidade"
+    ],
+    "pagina": 19
+  },
+  {
+    "id": "essential-vic",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Vic",
+    "preco": 206.0,
+    "preco_plus": null,
+    "tamanhos": "XPP ao GG",
+    "tecido": "95% Poliéster, 5% Elastano",
+    "caracteristicas": [
+      "Manga com recorte",
+      "Amarração com cadarço na cintura",
+      "Elástico nas costas"
+    ],
+    "diferenciais": [
+      "Durabilidade",
+      "Praticidade",
+      "Antipelos"
+    ],
+    "pagina": 20
+  },
+  {
+    "id": "essential-lidia",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Lídia",
+    "preco": 240.0,
+    "preco_plus": 260.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "70% Viscose, 27% Poliéster, 3% Elastano",
+    "caracteristicas": [
+      "Blusa com gola V traspassada",
+      "Dois bolsos grandes e um pequeno na frente",
+      "Calça reta com bolso grande na lateral"
+    ],
+    "diferenciais": [
+      "Conforto térmico",
+      "Elasticidade funcional",
+      "Praticidade"
+    ],
+    "pagina": 21
+  },
+  {
+    "id": "essential-renata",
+    "colecao": "Essential",
+    "categoria": "Scrub",
+    "nome": "Renata",
+    "preco": 240.0,
+    "preco_plus": 260.0,
+    "tamanhos": "XPP ao 3G",
+    "tecido": "70% Viscose, 27% Poliéster, 3% Elastano",
+    "caracteristicas": [
+      "Blusa com gola V",
+      "Dois bolsos grandes e um pequeno na frente",
+      "Calça com elástico na cintura"
+    ],
+    "diferenciais": [
+      "Conforto térmico",
+      "Elasticidade funcional",
+      "Praticidade"
+    ],
+    "pagina": 22
+  }
+]

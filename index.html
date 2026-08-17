@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<meta name="theme-color" content="#052f27" />
+<title>Estilo Med | Scrubs & Jalecos em Belém</title>
+<meta name="description" content="Estilo Med — Scrubs & Jalecos com conforto e estilo. Explore as coleções Elegance e Essential e fale com a loja pelo WhatsApp." />
+<meta name="robots" content="noindex,nofollow,noarchive" />
+<link rel="canonical" href="/" />
+<meta property="og:title" content="Estilo Med | Scrubs & Jalecos" />
+<meta property="og:description" content="Vista sua profissão. Eleve sua presença." />
+<meta property="og:type" content="website" />
+<link rel="icon" href="assets/brand/logo-original.jpeg" />
+<link rel="preload" href="assets/brand/logo-cinematic.png" as="image" fetchpriority="high" />
+<link rel="stylesheet" href="styles.css" />
+<script type="application/ld+json" id="schema-org">{"@context":"https://schema.org","@type":"Organization","name":"Estilo Med","description":"Scrubs & Jalecos","areaServed":"Belém - PA","sameAs":["https://instagram.com/estilomedbelem"],"contactPoint":{"@type":"ContactPoint","telephone":"+55 91 98493-8817","contactType":"sales"}}</script>
+</head>
+<body>
+<a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+<div id="cinematicIntro" class="cinematic" aria-hidden="true">
+  <div class="cinematic-noise"></div>
+  <div class="cinematic-vignette"></div>
+  <div class="cinematic-ray ray-a"></div>
+  <div class="cinematic-ray ray-b"></div>
+  <div class="cinematic-orbit orbit-a"></div>
+  <div class="cinematic-orbit orbit-b"></div>
+  <div class="intro-stage">
+    <span class="intro-kicker">ESTILO MED • 2026</span>
+    <div class="intro-logo-shell">
+      <div class="intro-glow"></div>
+      <img src="assets/brand/logo-cinematic.png" class="cinematic-logo" alt="" />
+    </div>
+    <p class="intro-tagline">Scrubs & Jalecos • presença que acompanha sua rotina</p>
+    <div class="intro-progress" aria-hidden="true"><i></i></div>
+  </div>
+  <button id="skipIntro" class="skip-intro" type="button">Pular intro</button>
+</div>
+<header class="site-header" id="topo">
+  <button class="icon-btn menu-toggle" id="menuToggle" aria-label="Abrir menu" aria-expanded="false"><span></span><span></span><span></span></button>
+  <a class="brand" href="#topo" aria-label="Estilo Med — início"><img src="assets/brand/logo-original.jpeg" alt="Estilo Med — Scrubs & Jalecos" /></a>
+  <button class="icon-btn fav-shortcut" id="favShortcut" aria-label="Ver favoritos"><span>♡</span><b id="favCount">0</b></button>
+</header>
+<nav class="drawer" id="drawer" aria-label="Menu principal">
+  <button id="drawerClose" class="drawer-close" aria-label="Fechar menu">×</button>
+  <a href="#colecoes">Coleções</a><a href="#vitrine">Vitrine</a><a href="#catalogo">Catálogo</a><a href="#tecnologia">Tecnologia</a><a href="#assistente">Assistente IA</a><a href="#faq">FAQ</a>
+  <a class="drawer-wa" href="https://wa.me/5591984938817" target="_blank" rel="noopener">WhatsApp oficial ↗</a>
+</nav>
+<main id="conteudo">
+<section class="hero section-pad">
+ <div class="hero-copy reveal">
+  <div class="eyebrow">BELÉM • MODA PROFISSIONAL</div>
+  <h1>Vista sua profissão.<br><em>Eleve sua presença.</em></h1>
+  <p>Scrubs & jalecos com conforto, estilo e acabamento para acompanhar sua rotina.</p>
+  <div class="hero-actions"><a class="btn btn-gold" href="#vitrine">Explorar vitrine <span>→</span></a><a class="btn btn-pearl" href="https://wa.me/5591984938817?text=Olá%2C%20Estilo%20Med!%20Vi%20o%20site%20e%20quero%20conhecer%20a%20coleção." target="_blank" rel="noopener">WhatsApp</a></div>
+  <div class="hero-points"><span>30 peças catalogadas</span><span>Elegance + Essential</span><span>Assistente inteligente</span></div>
+ </div>
+ <div class="hero-visual reveal" id="heroVisual">
+   <div class="halo"></div><div class="hero-stack" id="heroStack"></div>
+   <div class="hero-caption"><span id="heroCollection">ESSENTIAL</span><strong id="heroName">Beatriz</strong><small id="heroPrice">R$ 268,00</small></div>
+ </div>
+</section>
+<section id="colecoes" class="collections section-pad reveal">
+ <div class="section-head"><div><span class="eyebrow">DUAS LEITURAS DE ESTILO</span><h2>Escolha sua coleção</h2></div><p>Toque em uma coleção para transformar toda a vitrine.</p></div>
+ <div class="collection-switch" role="tablist" aria-label="Coleções">
+  <button role="tab" aria-selected="true" class="collection-tab active" data-collection="Elegance"><span>01</span><strong>Elegance</strong><small>Sofisticação em cada detalhe.</small></button>
+  <button role="tab" aria-selected="false" class="collection-tab" data-collection="Essential"><span>02</span><strong>Essential</strong><small>Funcionalidade com essência atemporal.</small></button>
+ </div>
+</section>
+<section id="vitrine" class="showcase section-pad">
+ <div class="section-head reveal"><div><span class="eyebrow">VITRINE G TECH</span><h2>Cada peça entra em cena</h2></div><p>Deslize, toque ou use as setas. A vitrine se move e destaca um modelo por vez.</p></div>
+ <div class="stage-wrap reveal">
+  <button class="stage-arrow prev" id="stagePrev" aria-label="Peça anterior">‹</button>
+  <div class="stage" id="stage" tabindex="0" aria-label="Vitrine interativa de produtos"></div>
+  <button class="stage-arrow next" id="stageNext" aria-label="Próxima peça">›</button>
+ </div>
+ <div class="stage-progress"><span id="stageIndex">01</span><div><i id="stageBar"></i></div><span id="stageTotal">09</span></div>
+</section>
+<section id="catalogo" class="catalog section-pad">
+ <div class="section-head reveal"><div><span class="eyebrow">CATÁLOGO 2026</span><h2>Encontre seu modelo</h2></div><p>Busca, filtros, favoritos e detalhes fiéis aos catálogos enviados.</p></div>
+ <div class="catalog-toolbar reveal">
+  <label class="search"><span>⌕</span><input id="searchInput" type="search" placeholder="Buscar por nome, tecido ou diferencial" aria-label="Buscar produtos" /></label>
+  <button id="filterToggle" class="filter-toggle">Filtros <span id="filterCount">0</span></button>
+ </div>
+ <div class="filter-chips reveal" id="filterChips">
+   <button class="chip active" data-filter="all">Todos</button><button class="chip" data-filter="Elegance">Elegance</button><button class="chip" data-filter="Essential">Essential</button><button class="chip" data-filter="Scrub">Scrubs</button><button class="chip" data-filter="Macacão">Macacões</button><button class="chip" data-filter="Jaqueta">Jaqueta</button><button class="chip" data-filter="tech">Tecnologia</button>
+ </div>
+ <p class="result-count" id="resultCount" aria-live="polite"></p>
+ <div class="product-grid" id="productGrid"></div>
+</section>
+<section id="tecnologia" class="technology section-pad">
+ <div class="section-head reveal"><div><span class="eyebrow">TECNOLOGIA PRESENTE NO CATÁLOGO</span><h2>Escolha pelo que importa na rotina</h2></div><p>Somente diferenciais realmente associados às peças do catálogo.</p></div>
+ <div class="tech-marquee reveal" id="techMarquee"></div>
+ <div class="tech-detail reveal"><div><span id="techKicker">TECIDO TECNOLÓGICO</span><h3 id="techTitle">Proteção UV 50+</h3><p id="techCopy">Veja quais peças do catálogo trazem este diferencial.</p></div><div id="techProducts" class="tech-products"></div></div>
+</section>
+<section id="assistente" class="assistant section-pad">
+ <div class="assistant-shell reveal">
+  <div class="assistant-head"><div class="ai-orb">EM</div><div><span class="eyebrow">PRESENTE G TECH</span><h2>Assistente IA Estilo Med</h2><p>Conte o que você prioriza. O assistente cruza sua resposta com os 30 modelos cadastrados e sugere opções reais do catálogo.</p></div></div>
+  <div class="assistant-chat" id="assistantChat" aria-live="polite"><div class="bubble ai"><b>Estilo Med IA</b><p>Qual é a sua rotina e o que você mais valoriza em uma peça?</p></div></div>
+  <div class="quick-prompts" id="quickPrompts"><button data-prompt="faculdade conforto">Faculdade + conforto</button><button data-prompt="clínica praticidade">Clínica + praticidade</button><button data-prompt="odontologia tecnologia">Odonto + tecnologia</button><button data-prompt="elegância caimento">Elegância + caimento</button><button data-prompt="mobilidade flaire">Mobilidade + flaire</button></div>
+  <form id="assistantForm" class="assistant-form"><input id="assistantInput" autocomplete="off" placeholder="Ex.: trabalho em clínica e quero conforto e bolsos" aria-label="Mensagem para o assistente" /><button type="submit">Enviar</button></form>
+  <div id="assistantResults" class="assistant-results"></div>
+ </div>
+</section>
+<section class="campus section-pad reveal"><div><span class="eyebrow">FACULDADE & CLÍNICA</span><h2>Da faculdade à clínica,<br>vista-se para o próximo passo.</h2><p>Use o assistente para filtrar por conforto, mobilidade, bolsos, tecido, modelagem e tamanho — sem inventar exigências ou normas que não aparecem no catálogo.</p><button class="btn btn-gold" id="campusAssistant">Encontrar meu modelo →</button></div><div class="campus-cards" id="campusCards"></div></section>
+<section class="social section-pad reveal"><div class="social-card"><span class="eyebrow">@ESTILOMEDBELEM</span><h2>Novidades, combinações e lançamentos</h2><p>Acompanhe a Estilo Med no Instagram.</p><a class="btn btn-pearl" href="https://instagram.com/estilomedbelem" target="_blank" rel="noopener">Ver Instagram ↗</a></div></section>
+<section id="faq" class="faq section-pad"><div class="section-head reveal"><div><span class="eyebrow">DÚVIDAS RÁPIDAS</span><h2>Antes de escolher</h2></div></div><div class="faq-list reveal">
+<details><summary>As cores estão todas disponíveis?</summary><p>O catálogo apresenta swatches de cores, mas a disponibilidade atual deve ser confirmada diretamente com a Estilo Med.</p></details>
+<details><summary>Como confirmar tamanho e disponibilidade?</summary><p>Abra uma peça e use o botão do WhatsApp. A mensagem já leva nome, coleção, tamanho informado no catálogo e valor exibido.</p></details>
+<details><summary>Os preços são os do catálogo 2026?</summary><p>Sim. Os valores exibidos nesta prévia foram estruturados a partir dos catálogos 2026 enviados. A confirmação comercial final é feita pelo WhatsApp oficial.</p></details>
+<details><summary>O Assistente IA compra por mim?</summary><p>Não. Ele recomenda modelos com base nos dados cadastrados. Estoque, cor, pagamento e fechamento continuam no atendimento oficial.</p></details>
+</div></section>
+</main>
+<footer class="footer section-pad">
+  <div class="footer-brand">
+    <img src="assets/brand/logo-original.jpeg" alt="Estilo Med"/>
+    <div class="footer-brand-copy"><strong>Estilo Med</strong><span>Scrubs & Jalecos</span></div>
+  </div>
+  <div class="footer-links">
+    <a href="https://instagram.com/estilomedbelem" target="_blank" rel="noopener">@estilomedbelem</a>
+    <a href="https://wa.me/5591984938817" target="_blank" rel="noopener">+55 91 98493-8817</a>
+    <span>Belém - PA</span>
+  </div>
+  <div class="footer-note">
+    <span>Prévia premium 2026</span>
+    <a class="gtech-credit" href="https://instagram.com/gtech_brasil" target="_blank" rel="noopener" aria-label="Criado pela G Tech no Instagram">Criado por <b>@gtech_brasil</b></a>
+  </div>
+</footer>
+<a class="sticky-wa" id="stickyWa" href="https://wa.me/5591984938817?text=Olá%2C%20Estilo%20Med!%20Vi%20o%20site%20e%20quero%20ajuda%20para%20escolher%20um%20modelo." target="_blank" rel="noopener" aria-label="Falar com Estilo Med no WhatsApp"><span>◔</span><b>Falar no WhatsApp</b><i>→</i></a>
+<dialog id="productDialog" class="product-dialog"><button class="dialog-close" id="dialogClose" aria-label="Fechar">×</button><div id="dialogBody"></div></dialog>
+<script src="data/business.js"></script><script src="data/products.js"></script><script src="app.js"></script>
+</body></html>

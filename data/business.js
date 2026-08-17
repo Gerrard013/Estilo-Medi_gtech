@@ -1,0 +1,1 @@
+window.ESTILO_BUSINESS = {"brand": "Estilo Med", "signature": "Scrubs & Jalecos", "city": "Belém - PA", "whatsappDisplay": "+55 91 98493-8817", "whatsapp": "5591984938817", "instagram": "@estilomedbelem", "instagramUrl": "https://instagram.com/estilomedbelem"};
