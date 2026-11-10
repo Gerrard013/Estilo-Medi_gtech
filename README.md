@@ -1,28 +1,32 @@
-# Emilly S. Cristina — Esthetic Expert | G TECH
+# EMILLY S. CRISTINA — ESTHETIC EXPERT
+## G Tech Cinema Experience · v2.0.0
 
-## V1.0.0 — Prévia premium do site institucional
+Site oficial de estética desenvolvido para Emilly S. Cristina em Belém/PA.
 
-Site responsivo em HTML/CSS/JS com Node.js sem dependências externas. Criado para substituir **somente** o antigo serviço `Estilo-Medi_gtech` após aprovação da cliente e revisão de imagens.
+### O que foi implementado
+- Abertura cinematográfica com logomarca original, botão de pular, reprodução pelo rodapé e respeito à preferência de movimento reduzido.
+- Hero editorial, camadas em movimento, animações no scroll, três capítulos imersivos, transições e microinterações em botões.
+- Catálogo filtrável de **12 serviços reais**, detalhes acessíveis e link de agendamento contextualizado para o WhatsApp existente.
+- Galeria com **34 itens do acervo enviado** e visualização em lightbox com setas, captions e navegação por teclado.
+- Experiência interativa para explorar opções por interesse (não é diagnóstico nem aconselhamento clínico).
+- Formulário que monta mensagem ao WhatsApp com procedimento, dia de preferência, período e observação opcional, sem salvar dados e sem prometer disponibilidade.
+- Identidade preto, marfim e dourado; layout adaptativo; metadados SEO e BeautySalon JSON-LD; controles básicos de segurança HTTP.
 
-### Executar
-- `node server.js`
-- Abrir `http://localhost:8080`
-- No Railway: conectar o repositório da Emilly; comando inicial `npm start`; porta injetada automaticamente por `PORT`.
+### Rodar localmente
+`npm start` (Node 20+, porta 8080 ou PORT configurado pelo Railway).
 
-### Recursos
-- Identidade Emilly S. Cristina com dados recebidos no arquivo `ESTETICA_EMILLE(2).zip`.
-- Catálogo com 12 procedimentos confirmados, filtro de categorias, links de WhatsApp por procedimento, navegação adaptável, SEO básico, dados estruturados, FAQ e acessibilidade.
-- O telefone usado é +55 91 98947-8306, presente em uma captura de contato no material original. Confirmar a titularidade antes de divulgar.
-- Sem chatbot, sem promessa de respostas automáticas e sem custos de APIs de IA.
-- Sem coleta ativa de dados pessoais: acompanhamento dos cliques requer implantação futura de endpoint próprio, com aviso de privacidade apropriado.
+### Destino
+GitHub `Gerrard013/Estilo-Medi_gtech`, branch `main` (nome técnico histórico — não aparece no site); Railway projeto `diligent-imagination`. URL oficial proposta: `https://emillyscristina-esthetic.up.railway.app/`.
 
-### Pendências obrigatórias para produção
-1. Confirmar consentimento por escrito para fotos e imagens de procedimentos/pessoas.
-2. Confirmar logo e nome comercial exatamente como usados.
-3. Confirmar WhatsApp oficial, Instagram, endereço exato, condições de pagamento e política de atendimento.
-4. Revisar texto para evitar alegações de resultado garantido.
-5. Conferir funcionamento e layout em dispositivos reais, política de privacidade e domínio final.
-6. Publicar somente após aprovação explícita, mantendo uma branch de backup.
+### Avisos importantes
+- Autorização de uso das fotografias e acervo confirmada por Gerrard. A titular mantém responsabilidade pelas autorizações dos fotografados e textos de publicidade profissional.
+- Preços e horários não divulgados porque não foram fornecidos.
+- Nenhuma IA paga, automação de WhatsApp, banco de dados, analytics externo ou CRM está habilitado neste plano Essencial de R$129,99/mês.
+- Medir taxa de conversão requer uma ferramenta analítica e consentimentos adequados. Cliques não equivalem a agendamentos concluídos.
+- A data escolhida pelo visitante é uma preferência; a profissional confirma disponibilidade no WhatsApp.
+- Verificar dados públicos e imagens antes da apresentação final à cliente.
 
-### IA Council
-Ver `docs/IA_COUNCIL_QA.md`. IA Council é uma **rotina de revisão de produto e negócio**, não uma IA automática ligada ao WhatsApp nesta versão.
+### Controle de versões
+- Branch `backup-estilo-medi-2026-11-10` contém último código antigo antes da remoção de arquivos.
+- Branch `backup-emilly-v1-2026-11-10` preserva o site Emilly v1.
+- Branch `emilly-premium-v2-preview` pode ser usada para revisão antes de publicação.
